@@ -89,7 +89,8 @@
   font-size: 17px;
   background: none;
   border: none;
-  color: var(--secondary);
+  color: #e854db;
+  font-family: Arial, sans-serif;
   letter-spacing: 0.02em;
   font-weight: 600;
   cursor: pointer;
